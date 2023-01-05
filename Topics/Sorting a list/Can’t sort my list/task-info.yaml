@@ -1,0 +1,23 @@
+type: string
+custom_name: Can’t sort my list!
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 74
+    placeholder_text: type your solution here
+    initial_state:
+      length: 23
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6789#comment
+status: Failed
+feedback:
+  message: Wrong solution
+  time: "Sun, 11 Dec 2022 12:55:14 UTC"
+record: -1

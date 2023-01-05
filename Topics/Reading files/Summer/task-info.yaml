@@ -1,0 +1,15 @@
+type: dataset
+files:
+- name: main.py
+  visible: true
+  text: "#  write your code here \n\n"
+  learner_created: false
+- name: data/dataset/input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/14259#comment
+status: Failed
+feedback:
+  message: Wrong solution
+  time: "Sat, 17 Dec 2022 11:24:36 UTC"
+record: -1
