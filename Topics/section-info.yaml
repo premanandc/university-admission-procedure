@@ -18,3 +18,4 @@ content:
 - Split and join
 - Writing files
 - Context manager
+- Conversion to boolean
